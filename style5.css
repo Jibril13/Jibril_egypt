@@ -24,15 +24,15 @@ nav {
   }
   
   nav li a:hover {
-    background-color: #4CAF50;
+    background-color: #af4c4c;
   }
   
   /* Main Content */
   body {
-    background-image: url("https://i.pinimg.com/originals/11/1a/f2/111af29fe13fc6828369bc7ca1d108fb.jpg");
+    background-image: url("https://cdn.britannica.com/57/122157-050-21261E20/Side-view-Sphinx-Great-Pyramid-of-Khufu.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 100;
+    background-size: 100%;
   }
   
   .container {
@@ -46,7 +46,7 @@ nav {
   }
 
   img {
-    width: 50%;
+    width: 30%;
     display: inline-block;
     margin-right: 10px;
     margin-bottom: 10px;
