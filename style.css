@@ -90,13 +90,17 @@
 
   .card img{
 	position: absolute;
+	
   }
   
   .placement{
 	position: absolute;
 	top: 60%;
 	left: 44%;
+	
   }
+
+
 .container {
 	display: flex;
 	justify-content: space-between;
